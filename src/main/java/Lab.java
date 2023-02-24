@@ -14,7 +14,7 @@ public class Lab {
      * @return if b is true, return true. if b is false, return false.
      */
     public boolean returnBoolean(boolean b){
-        return b;
+        return b; //comment to commit
     }
 
     /**
